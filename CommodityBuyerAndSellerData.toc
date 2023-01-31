@@ -1,5 +1,5 @@
 ## Title: Commodity Buyer And Seller Data
-## Interface: 100002
+## Interface: 100005
 ## Dependencies: CommodityBuyerAndSeller
 
 CommodityBuyerAndSellerData.lua

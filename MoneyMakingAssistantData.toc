@@ -1,0 +1,5 @@
+## Title: Money Making Assistant Data
+## Interface: 100105
+## Dependencies: MoneyMakingAssistant
+
+MoneyMakingAssistantData.lua
